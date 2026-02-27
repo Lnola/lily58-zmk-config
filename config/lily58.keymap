@@ -46,7 +46,7 @@
 &kp F1      &kp F2        &kp F3        &kp F4        &kp F5        &kp F6                                &kp F7     &kp F8    &kp F9           &kp F10   &kp F11   &kp F12
 &kp GRAVE   &kp EXCL      &kp AT        &kp HASH      &kp DOLLAR    &kp PRCNT                             &kp CARET  &kp AMPS  &kp KP_MULTIPLY  &kp LPAR  &kp RPAR  &kp TILDE
 &trans      &trans        &trans        &trans        &trans        &trans        &trans    &trans        &trans     &trans    &trans           &trans    &trans    &trans
-                                        &trans        &trans        &trans        &trans    &lt 0 RETURN  &trans     &trans    &trans
+                                        &trans        &trans        &trans        &trans    &lt 3 RETURN  &trans     &trans    &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
@@ -66,7 +66,7 @@
 &trans  &trans                &trans                &trans      &trans             &trans                                  &trans       &trans      &trans     &trans         &trans     &trans
 &trans  &trans                &trans                &trans      &trans             &trans                                  &trans       &kp LEFT    &kp DOWN   &kp UP         &kp RIGHT  &trans
 &trans  &trans                &trans                &trans      &trans             &trans           &trans         &trans  &kp KP_PLUS  &kp MINUS   &kp EQUAL  &kp BACKSLASH  &kp PIPE   &trans
-                                                    &trans      &trans             &trans           &lt 0 SPACE    &trans  &trans       &trans      &trans
+                                                    &trans      &trans             &trans           &lt 4 SPACE    &trans  &trans       &trans      &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
