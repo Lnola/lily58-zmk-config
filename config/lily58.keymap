@@ -126,7 +126,7 @@
 
         app_layer {
             bindings = <
-&bt BT_CLR  &bt BT_SEL 0   &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4                     &trans         &trans         &trans             &trans              &trans                 &trans
+&bt BT_CLR  &bt BT_SEL 0   &bt BT_SEL 1   &bt BT_SEL 2   &bt BT_SEL 3   &bt BT_SEL 4                     &trans         &trans         &trans             &trans              &trans                 &to 5
 &trans      &trans         &trans         &trans         &trans         &trans                           &trans         &trans         &trans             &trans              &trans                 &trans
 &trans      &kp LS(LC(A))  &kp LS(LC(S))  &kp LS(LC(D))  &kp LS(LC(F))  &kp LS(LC(G))                    &kp LS(LC(H))  &kp LS(LC(J))  &kp LS(LC(K))      &kp LS(LC(L))       &kp LS(LC(SEMICOLON))  &trans
 &trans      &kp LS(LC(Z))  &kp LS(LC(X))  &kp LS(LC(C))  &kp LS(LC(V))  &trans         &trans    &trans  &trans         &kp LS(LC(M))  &kp LS(LC(COMMA))  &kp LS(LC(PERIOD))  &kp LS(LC(SLASH))      &trans
